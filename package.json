@@ -1,0 +1,26 @@
+{
+  "name": "duplicate-file-finder",
+  "version": "1.0.0",
+  "description": "A Node.js script to find and manage duplicate files",
+  "main": "duplicateFileFinder.js",
+  "type": "module",
+  "scripts": {
+    "start": "node duplicateFileFinder.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "duplicate",
+    "file",
+    "finder",
+    "scanner",
+    "cli",
+    "node",
+    "filesystem",
+    "tool"
+  ],
+  "author": "Cyril Leclercq",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
